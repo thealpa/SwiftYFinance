@@ -33,8 +33,8 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Sources/SwiftYFinance/Classes/**/*'
   
-  s.dependency 'Alamofire', '~> 5.2'
-  s.dependency 'SwiftyJSON', '~> 4.0'
+  s.dependency 'Alamofire', '~> 5.2.2'
+  s.dependency 'SwiftyJSON', '~> 5.0.1'
   
   # s.resource_bundles = {
   #   'SwiftYFinance' => ['SwiftYFinance/Assets/*.png']
